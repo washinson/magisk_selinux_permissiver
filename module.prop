@@ -1,0 +1,6 @@
+id=magisk_selinux_permissiver
+name=Magisk SELinux Permissiver
+version=1.0.0
+versionCode=1
+author=washinson (sanya112001)
+description=Magisk SELinux Permissiver
